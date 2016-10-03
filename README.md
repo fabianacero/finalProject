@@ -1,0 +1,1 @@
+NGINX and PHP:  Combine two powerful tools to create this useful container. [![Release](https://img.shields.io/github/release/docker/docker.svg)](https://github.com/docker/docker/releases/latest)
