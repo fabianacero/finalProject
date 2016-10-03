@@ -15,3 +15,7 @@ Finally you can access your NGINX container from you web browser using the conta
 
 * docker inspect -f "{{ .NetworkSettings.Networks.bridge.IPAddress }}" ngxweb
 
+But if you want to put your domain you can add it to the host file. *Remember!* to replace yourdomain by your own
+
+echo -e "$(docker inspect -f "{{ .NetworkSettings.Networks.bridge.IPAddress }}" ngxweb)\tyourdomain.com" >> /etc/hosts
+
