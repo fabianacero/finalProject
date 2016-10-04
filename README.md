@@ -1,7 +1,8 @@
 NGINX, PHP and POSTGRES Environment
 ===================================
-
-![alt tag](https://github.com/fabianacero/finalProject/blob/master/images/finalProject.png?raw=true)
+<div style="text-align: center;">
+<img src="https://github.com/fabianacero/finalProject/blob/master/images/finalProject.png?raw=true" width="400" style="margin: o auto;"/>
+</div>
 
 ## USAGE
 
