@@ -1,6 +1,7 @@
 NGINX, PHP and POSTGRES Environment
 ===================================
 
+<img src="https://github.com/fabianacero/finalProject/blob/master/images/finalProject.png?raw=true" width="400"/>
 ![alt tag](https://github.com/fabianacero/finalProject/blob/master/images/finalProject.png?raw=true)
 
 ## USAGE
